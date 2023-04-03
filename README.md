@@ -2,4 +2,4 @@
 
 The project was designed for community in  GJHS.
 
-And This project's contributor is Han.WS and Shim.SG.
+Han.WS and Shim.SG are project's contributors.
